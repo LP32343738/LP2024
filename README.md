@@ -54,7 +54,8 @@ No country or institution is excluded of any of the above restrictions. Failure 
 
 Download Link
 -
-[LP2024 Download Link](https://drive.google.com/file/d/1bO72zlnmhBG9YQDfCuq6CI_pisY1_NTt/view?usp=sharing)
+[LP-2024 Download Link](https://drive.google.com/file/d/1s9mDic1B7VYrhXKLDjam_a7lXdTPEHK1/view?usp=drive_link)
+[LP-2024 Syn Download Link](https://drive.google.com/file/d/1vhWqmYkz1Bunh5isd3DyW3NQreGRBXVv/view?usp=drive_link)
 
 Citation and Contact
 --
