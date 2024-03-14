@@ -26,6 +26,6 @@ Some examples from the dataset are shown below:
 
 Download Link
 -
-[LP-2024 Syn Download Link](https://drive.google.com/file/d/1vhWqmYkz1Bunh5isd3DyW3NQreGRBXVv/view?usp=drive_link)
+[LP-2024 Syn Download Link](https://drive.google.com/file/d/1uD8vap4kprXdxoSh95clkhObBriPIKAh/view?usp=sharing)
 \\
-[LP-2024 Download Link](https://drive.google.com/file/d/1s9mDic1B7VYrhXKLDjam_a7lXdTPEHK1/view?usp=drive_link)
+[LP-2024 Download Link](https://drive.google.com/file/d/1x2gcrAD30R4OkV4qCMBnH2XBTqp07TJO/view?usp=sharing)
