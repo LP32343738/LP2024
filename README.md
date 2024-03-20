@@ -24,10 +24,12 @@ The labels for unreadable license plates only include the points mentioned above
 More detailed introduction of LP2024 can be found in the paper.
 
 Some examples from the dataset are shown below:
+![Uploading LP2024_sample.jpg…]()
 
 Download Link
 -
 We are temporarily releasing 300 images each for the LP-2024-Syn test set, LP-2024 LPD, and LPR. The complete dataset will be made available after the paper is accepted.
+\\
 [LP-2024 Syn Download Link](https://drive.google.com/file/d/1NjzTVPxhejzuHmmOhE2LBIqi26qWhP1H/view?usp=sharing)
 \\
 [LP-2024 Download Link](https://drive.google.com/file/d/1ZmW0wFJZnvLamzdFMKWf8kiDqvlUGVGn/view?usp=sharing)
