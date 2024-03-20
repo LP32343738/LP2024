@@ -1,6 +1,6 @@
-# LP2024
+# LP-2024 Datasets
 
-LP-2024 dataset offers 33,240 labeled license plates in 17,789 images. The images were taken at different time of the day, under various traffic and weather conditions, and by using different types of cameras. The size of LPs varies from as small as 32 (8x4) pixels to 3,281,900 (1850x1774) pixels.
+LP-2024 datasets offers 33,240 labeled license plates in 17,789 images. The images were taken at different time of the day, under various traffic and weather conditions, and by using different types of cameras. The size of LPs varies from as small as 32 (8x4) pixels to 3,281,900 (1850x1774) pixels.
 
 The annotations in LP-2024 combine the positive aspects of well-annotated databases such as CCPD and AOLP. The LP-2024 database includes bounding boxes for all license plates larger than the 30-pixel threshold, below which the human eye cannot distinguish license plates from background noise. If the alphanumeric content of a license plate can be clearly read by the human eye, it is classified as readable; otherwise, it is classified as unreadable. In practical applications, readable license plates are used for LPDR research, while unreadable ones are used for LPD or deblurring methods. As shown in the image below, the license plate in the green box is classified as readable, while the one in the red box is classified as unreadable.
 ![LP2024_read](https://github.com/LP32343738/LP2024/assets/162530571/916098bf-783f-44fe-87cd-c4a7a1acf8e4)
