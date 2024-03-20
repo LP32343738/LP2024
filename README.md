@@ -24,7 +24,8 @@ The labels for unreadable license plates only include the points mentioned above
 More detailed introduction of LP2024 can be found in the paper.
 
 Some examples from the dataset are shown below:
-![Uploading LP2024_sample.jpg…]()
+![LP2024_sample](https://github.com/LP32343738/LP2024/assets/162530571/ac2a3fc2-d3e0-439e-b2dc-5708dcf3f975)
+
 
 Download Link
 -
