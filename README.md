@@ -15,10 +15,9 @@ The annotations in LP-2024 combine the positive aspects of well-annotated databa
 However, these two categories have different types of labels. The labels for readable license plates include:
 
 1. A sequence of 5-7 alphanumeric values representing the license plate content.
-2. Bounding box of the license plate defined by the lower-left and upper-right endpoints in pixel coordinates.
-3. Bounding box defined by the four vertices determining the exact area of the license plate.
+2. Bounding box defined by the four vertices determining the exact area of the license plate.
 
-The labels for unreadable license plates only include the points mentioned above in 2 and 3.
+The labels for unreadable license plates only include the points mentioned above in 2.
 
 
 More detailed introduction of LP2024 can be found in the paper.
