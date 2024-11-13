@@ -31,6 +31,48 @@ Some examples from the dataset are shown below:
 ![LP2024_sample](https://github.com/LP32343738/LP2024/assets/162530571/ac2a3fc2-d3e0-439e-b2dc-5708dcf3f975)
 
 
+
+Data Download 
+--
+ 1. [Get a password](#how-to-get-a-password)
+ 2. [Restriction](#restriction)
+ 3. [Download Link](#download-link)
+ 
+How to get a Password
+-
+Please send an e-mail to the database administrator and cc. to Prof. Gee-Sern (Jison) Hsu to receive the passcode to unlock the zipped database. Your Email MUST be sent from a valid University account and include the following [request forms](./RequestForms.txt):
+
+```
+Subject: Application to download the LP2024 database
+Name: <your first and last name>
+Affiliation: <University where you work>
+Department: <your department>
+Current position: <your job title>
+Email: <must be the email at the above mentioned institution>
+Postal Address:
+Phone number:
+I have read and agreed to follow the restrictions specified in the LP2024 database webpage. This database will only be used for research purposes. I will not make any part of this database available to a third party. I'll not sell any part of this database or make any profit from its use.
+<your signature>
+```
+In general, a password will take 3-7 workdays to issue. To avoid problems with our spam filter, make sure that your email is sent from an .edu (or similar) address. Failure to follow the instruction may result in no response. 
+
+Database administrator: avlabdba@gmail.com
+
+Prof. Hsu's e-mail: jison@mail.ntust.edu.tw
+
+
+
+Restriction
+-
+To guarantee the proper use of this database, the following restrictions must be followed by any person who has downloaded the database.
+ 1. All submissions, publications, and works that use or talk about the LP2024 database must cite the paper. 
+ 2. Permission is NOT granted to reproduce or distribute the database. 
+ 3. Written permission must be approved by Prof. Gee-Sern Hsu if a faculty member desires to share the database with her/his co-workers or students. Even then, the database cannot be posted on a webpage accessible from outside the faculty research group. 
+ 4. No economical profit can be made from this database. 
+ 
+No country or institution is excluded of any of the above restrictions. Failure to follow the restrictions will be legally prosecuted.
+
+
 Download Link
 -
 We are temporarily releasing 300 images each for the LP-2024-Syn test set, LP-2024 LPD, and LPR. The complete dataset will be made available after the paper is accepted.
