@@ -75,7 +75,7 @@ No country or institution is excluded of any of the above restrictions. Failure 
 
 Download Link
 -
-[LP-2024 Download Link](https://drive.google.com/file/d/1NjzTVPxhejzuHmmOhE2LBIqi26qWhP1H/view?usp=sharing)
+[LP-2024 Download Link](https://drive.google.com/drive/folders/1TS3UkpbfOOmXc40H6eVWc9XYHwC0taGt?usp=sharing)
 \
 \
 [LP-2024 Syn Dataset (105.5GB)](https://drive.google.com/file/d/1NjzTVPxhejzuHmmOhE2LBIqi26qWhP1H/view?usp=sharing)
