@@ -75,6 +75,8 @@ No country or institution is excluded of any of the above restrictions. Failure 
 
 Download Link
 -
+We are temporarily releasing 400 images each for the LP-2024 LPD, and LPR. The complete dataset will be made available after the paper is accepted.
+
 [LP-2024 Download Link](https://drive.google.com/drive/folders/1TS3UkpbfOOmXc40H6eVWc9XYHwC0taGt?usp=sharing)
 \
 \
