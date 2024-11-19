@@ -31,6 +31,19 @@ Some examples from the dataset are shown below:
 ![LP2024_sample](https://github.com/LP32343738/LP2024/assets/162530571/ac2a3fc2-d3e0-439e-b2dc-5708dcf3f975)
 
 
+# LPD Annotation Visualization
+```
+python lp_detect_draw.py --image_folder=images --label_folder=labels --output_folder=output
+```
+Additional flags:
+- `--image_folder /path/to/images` set the path to the images
+- `--label_folder /path/to/labels` set the path of the label file for license plate locations
+- `--output_folder` set the path to save the bounding box results
+
+Examples from the dataset are shown below:
+![119](https://github.com/user-attachments/assets/8f69b9ea-0d3d-44ee-83b8-b965810a760c)
+
+
 
 Data Download 
 --
