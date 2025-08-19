@@ -5,7 +5,7 @@ The License Plate 2025 (LP-2025) dataset offers 33,240 license plates in 17,789 
 Due to the in-the-wild collection of the data, many license plates are too small or too blurry for human annotators to recognize, and are hence labeled as \textit{unreadable}. There are 34,189 unreadable license plates in the LP-2025, versus the aforementioned 33,240 \textit{readable} plates. Although the unreadable license plates are excluded when considering recognition (LPR), they are a crucial part of the benchmark when considering detection (LPD), deblurring, and data augmentation. 
 
 As shown in the image below, the license plate in the green box is classified as readable, while the one in the red box is classified as unreadable.
-![LP2024_read](https://github.com/LP32343738/LP2025/assets/162530571/916098bf-783f-44fe-87cd-c4a7a1acf8e4)
+![LP2025_read](https://github.com/LP32343738/LP2024/assets/162530571/916098bf-783f-44fe-87cd-c4a7a1acf8e4)
 
 We divided the data into three subsets for training (26,881 images, 40\%), validation (6,756 images, 10\%), and testing (33,792 images, 50\%) according to the attributes of the license plates, making the attribute distribution of each subset similar. The attributes include size, orientation, and illumination condition of the plates. The training set comprises 13,243 readable plates and 13,638 unreadable plates, the validation set has 3,340 readable plates and 3,416 unreadable plates, and the testing set consists of 16,657 readable plates and 17,135 unreadable plates.
 
@@ -28,7 +28,7 @@ The labels for unreadable license plates only include the points mentioned above
 More detailed introduction of LP2025 can be found in the paper.
 
 Some examples from the dataset are shown below:
-![LP2024_sample](https://github.com/LP32343738/LP2025/assets/162530571/ac2a3fc2-d3e0-439e-b2dc-5708dcf3f975)
+![LP2025_sample](https://github.com/LP32343738/LP2024/assets/162530571/ac2a3fc2-d3e0-439e-b2dc-5708dcf3f975)
 
 
 # LPD Annotation Visualization
