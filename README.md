@@ -41,8 +41,7 @@ Additional flags:
 - `--output_folder` set the path to save the bounding box results
 
 Examples from the dataset are shown below:
-![119](https://github.com/user-attachments/assets/8f69b9ea-0d3d-44ee-83b8-b965810a760c)
-
+![example](https://github.com/user-attachments/assets/30f7ab2c-e058-4bae-987b-bf112417822d)
 
 
 Data Download 
